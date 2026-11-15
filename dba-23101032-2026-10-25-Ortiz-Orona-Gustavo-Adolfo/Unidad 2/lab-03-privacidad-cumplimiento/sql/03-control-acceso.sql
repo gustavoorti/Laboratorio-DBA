@@ -1,3 +1,4 @@
+
 -- Actividad 4 — Control de acceso relacionado con la finalidad
 -- Crea un rol:
 CREATE ROLE analista_2 NOLOGIN;
